@@ -17,4 +17,4 @@ spec:
       - name: springboot-app
         image: docker.io/mesatya/springargodemo:v2
         ports:
-        - containerPort: 8080
+        - containerPort: 8081
